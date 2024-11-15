@@ -7,8 +7,8 @@ public class Main
   {
     Scanner sc = new Scanner (System.in);
     boolean doProb1 = true;
-    boolean doProb2 = false;
-    boolean doProb3 = false;
+    boolean doProb2 = true;
+    boolean doProb3 = true;
 
     if (doProb1){
     //Problem 1
